@@ -1,10 +1,12 @@
-import Container from 'components/container'
-import Hero from 'components/hero'
+import Nav from 'components/nav'
+import styles from 'styles/hero.module.css'
+
 export default function Home(){ 
 	return (
-	   <Container>
-     		 <Hero title="CUBE" subtitle="アウトプットしていくサイト" imageOn />
-	   </Container>
+		<div>
+		<Nav />
+		</div>
+
   )
 }
 

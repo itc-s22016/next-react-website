@@ -1,4 +1,4 @@
-.flexContainer {
+/*.flexContainer {
 	composes: sideBySideCenter from 'styles/utils.module.css';
 }
 
@@ -17,7 +17,7 @@
 	font-size: var(--small-heading2);
 }
 
-/* image */
+
 .image {
 	width: 100%;
 }
@@ -26,7 +26,4 @@
 	.image {
 	    width: 50%;
     }
-}
-
-
-
+}*/ 
